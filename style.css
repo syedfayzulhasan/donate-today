@@ -219,3 +219,64 @@ footer p {
     background-color: red;
 
 }
+
+.sleep {
+    padding: 7%;
+    border: 50%;
+    text-align: center;
+}
+
+#late {
+    display: flex;
+}
+
+#yes {
+    height: 20px;
+    width: 300px;
+    margin-top: 55px;
+    margin-bottom: 200px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    margin-left: 320px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#no {
+    height: 20px;
+    width: 110px;
+    color: red;
+    margin-top: 55px;
+    margin-bottom: 200px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    margin-left: 40px;
+    background-color: darksalmon;
+    border: 3px solid rgb(255, 0, 13);
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.amra {
+    width: 50%;
+    padding: 5%;
+    display: inline;
+}
+
+img {
+    height: 50%;
+    vertical-align: middle;
+
+}
+
+.ami {
+    margin: 0%;
+}
+
+.con {
+    background-color: brown;
+    text-align: center;
+}
