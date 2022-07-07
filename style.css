@@ -1,3 +1,149 @@
-body {
-    font-family: 'Poppins', sans-serif;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    background-image: url(images/donation7.jpg);
+    padding: 12%;
+
+}
+
+.first-content {
+    padding: 7%;
+    border: 33%;
+}
+
+.half-width {
+    font-size: 100px;
+    color: yellow;
+    text-align: center;
+    margin-bottom: 5%;
+
+
+}
+
+.second-width {
+    font-size: 45px;
+    color: yellow;
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+.link-button {
+    height: 50px;
+    width: 153px;
+    color: white;
+    background-color: rgb(247, 19, 19);
+    margin-left: 339px;
+    margin-right: 350px;
+    padding-top: 13px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+.second-phase {
+    text-align: center;
+    color: black;
+    margin-left: 320px;
+    margin-right: 240px;
+    margin-top: 4%;
+}
+
+.second-paragraph {
+    color: black;
+    text-align: center;
+    margin-top: 4%;
+    margin-left: 320px;
+    margin-right: 240px;
+}
+
+.Boxes {
+    display: flex;
+}
+
+#Box {
+    height: 40px;
+    width: 110px;
+    margin-top: 55px;
+    margin-bottom: 200px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    margin-left: 320px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#Box-1 {
+    height: 40px;
+    width: 110px;
+    color: red;
+    margin-top: 55px;
+    margin-bottom: 200px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    margin-left: 40px;
+    background-color: darksalmon;
+    border: 3px solid rgb(255, 0, 13);
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#Box-2 {
+    height: 40px;
+    width: 110px;
+    margin-top: 55px;
+    margin-bottom: 200px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    margin-left: 40px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#Box-3 {
+    height: 40px;
+    width: 110px;
+    margin-top: 55px;
+    margin-bottom: 200px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    margin-left: 40px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#Box-4 {
+    height: 40px;
+    width: 110px;
+    margin-top: 55px;
+    margin-bottom: 200px;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    margin-left: 40px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.down {
+    text-align: center;
+    color: dimgray;
+}
+
+#breakdown {
+    text-align: center;
+    margin-top: 1%;
+    margin-left: 250px;
+    margin-right: 200px;
 }
